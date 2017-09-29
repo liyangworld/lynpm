@@ -1,0 +1,26 @@
+{
+  "name": "lynpm",
+  "version": "1.0.0",
+  "description": "发布npm包的流程",
+  "main": "./lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyangworld/lynpm.git"
+  },
+  "keywords": [
+    "npm",
+    "mine"
+  ],
+  "author": "liyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyangworld/lynpm/issues"
+  },
+  "homepage": "https://github.com/liyangworld/lynpm#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
